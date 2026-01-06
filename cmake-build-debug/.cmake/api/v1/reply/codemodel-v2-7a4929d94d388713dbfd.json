@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "minesweeper::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-minesweeper-Debug-63f466b8994f65423067.json",
+					"jsonFile" : "target-minesweeper-Debug-c937ba0d9c76b594ed8a.json",
 					"name" : "minesweeper",
 					"projectIndex" : 0
 				}
@@ -55,6 +55,6 @@
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 7
+		"minor" : 8
 	}
 }

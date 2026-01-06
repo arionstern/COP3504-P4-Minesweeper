@@ -122,10 +122,6 @@
 				"role" : "flags"
 			},
 			{
-				"fragment" : "",
-				"role" : "flags"
-			},
-			{
 				"backtrace" : 2,
 				"fragment" : "C:\\Libraries\\SFML-2.5.1\\lib\\libsfml-graphics-d.a",
 				"role" : "libraries"
